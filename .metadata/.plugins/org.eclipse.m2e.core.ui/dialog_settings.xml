@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Users\Kundos\Desktop\Dev\workspace_spring_gateway_test\api-gateway-basic-mvc"/>
+			<item value="C:\Users\Kundos\Desktop\Dev\workspace_spring_gateway_test\api-gateway-basic-reactive"/>
+			<item value="C:\Users\Kundos\Desktop\Dev\workspace_spring_gateway_test\api-rest-1"/>
+			<item value="C:\Users\Kundos\Desktop\Dev\workspace_spring_gateway_test\eureka-server"/>
+			<item value="C:\Users\Kundos\Desktop\Dev\workspace_spring_gateway_test\api-gateway"/>
+			<item value="C:\Users\Kundos\Downloads\api-gateway"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+</section>

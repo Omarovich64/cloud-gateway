@@ -1,0 +1,3 @@
+spring.application.name=api-rest-1
+
+server.port=8081

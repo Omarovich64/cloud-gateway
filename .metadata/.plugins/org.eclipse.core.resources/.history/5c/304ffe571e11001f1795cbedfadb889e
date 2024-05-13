@@ -1,0 +1,13 @@
+package com.example.apigatewaybasicmvc;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class ApiGatewayBasicMvcApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(ApiGatewayBasicMvcApplication.class, args);
+	}
+
+}

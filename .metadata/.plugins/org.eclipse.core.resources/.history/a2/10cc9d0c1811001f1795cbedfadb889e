@@ -1,0 +1,10 @@
+spring.application.name=api-gateway-basic-reactive
+
+
+server.port=8086
+
+eureka.client.serviceUrl.defaultZone=http://localhost:8761/eureka
+
+#spring.cloud.gateway.routes[0].id=api-rest-2
+#spring.cloud.gateway.routes[0].uri=lb://hello
+#spring.cloud.gateway.routes[0].predicates[0]=Path=/**
